@@ -1,0 +1,17 @@
+.vscode
+venv
+*.pyc
+*.sqlite3
+*.db
+staticfiles
+settings_local.py
+__pycache__
+.DS_Store
+*.code-workspace
+.env
+ahs_test.py
+
+
+# celery
+celerybeat.pid
+celerybeat-schedule
