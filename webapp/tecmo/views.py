@@ -121,7 +121,6 @@ def _setup_teams_tomczak():
     team = Team('Steelers', 2, [4, 5]) # steelers
     teams.append(team)
 
-
     # tier 5
     team = Team('Browns', 23, [5]) # browns
     teams.append(team)
@@ -134,7 +133,7 @@ def _setup_teams_tomczak():
     team = Team('Patriots', 8, [5]) # patriots
     teams.append(team)
 
-    return teams, 6
+    return teams, 5
 
 # experimental AGI rankings
 def _setup_teams_agi():
